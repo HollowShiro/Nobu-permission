@@ -1,1 +1,2 @@
 Hello, well... Our Discord Server Fate GO ESP had a problem with a bug with the bot, we were doing quizes with the bot but the quizes bugged somehow and despite 5 minutes passed the bot still said that we were doing a quiz, so we thought that we would kick the bot and make it rejoin to the server, because only one of the admins knew about the bot being private, he spoke to you here in github, so if you would let us use the bot again we will thank you a lot. Thanks for reading
+Our server is this : https://discord.gg/cDkw2BN it is one use link to let you know
